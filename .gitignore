@@ -1,0 +1,2 @@
+/clients/consul01/*
+!/clients/consul01/services.json
